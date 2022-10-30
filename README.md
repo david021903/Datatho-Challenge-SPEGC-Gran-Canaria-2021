@@ -7,11 +7,11 @@
 -reef</li>
 
 <h2>Elements to classify:</h2>
-<ol><li>-Algae
+<li>-Algae
 -Animals
 -Garbage
 -Ripples
--Rock</li></ol>
+-Rock</li>
 
 <h1>Reto de identicacion de fondos marinos y elementos en ellos a través de inteligencia artificial</h1>
 <h2>Fondos marinos:</h2>
