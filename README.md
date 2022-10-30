@@ -1,23 +1,23 @@
 # Datatho-Challenge-SPEGC-Gran-Canaria-2021
-Challenge about identify marine envyroments and elements in them through Artficial Inteligence
-Enviroments:
--sandy-muddy
+<h1>hallenge about identify marine envyroments and elements in them through Artficial Inteligence</h1>
+<p>Enviroments:</p>
+<li>-sandy-muddy
 -muddy
 -sandy
--reef
-Elements to classify:
--Algae
+-reef</li>
+<p>Elements to classify:</p>
+<li>-Algae
 -Animals
 -Garbage
 -Ripples
--Rock
+-Rock</li>
 
-Reto de identicacion de fondos marinos y elementos en ellos a través de inteligencia artificial
-Fondos marinos:
--Areno-Fangoso
+<h1>Reto de identicacion de fondos marinos y elementos en ellos a través de inteligencia artificial</h1>
+<p>Fondos marinos:</p>
+<li>-Areno-Fangoso
 -Fangoso
 -Arenoso
--Arrecife
+-Arrecife</li>
 Elementos a clasificar:
 -Algas
 -Fauna
