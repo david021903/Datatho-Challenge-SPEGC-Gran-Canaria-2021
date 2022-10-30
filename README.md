@@ -34,5 +34,5 @@
 
 ![Predictions](https://user-images.githubusercontent.com/86127726/198894658-9f86970b-0b6e-438c-8d08-92a458595b6a.png)
 
-<h2>Creators:</h2>:
+<h2>Creators:</h2>
 <ol><li>juandavidg88@hotmail.es</li><li>samuelpaz243@gmail.com</li><li>adriancuba0512@gmail.com </li></ol>
