@@ -1,5 +1,5 @@
 # Datathon-Challenge-SPEGC-Gran-Canaria-2021
-<h1>hallenge about identify marine envyroments and elements in them through Artficial Inteligence</h1>
+<h1>challenge about identify marine envyroments and elements in them through Artficial Inteligence</h1>
 <h2>Enviroments:</h2>
 <li>-sandy-muddy
 -muddy
